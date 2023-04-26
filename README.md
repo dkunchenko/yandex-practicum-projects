@@ -1,3 +1,13 @@
+## Мои контакты:
+:bust_in_silhouette: Кунченко Даниил Сергеевич
+
+:telephone_receiver: +7(915)124-47-13
+
+:envelope: kunchenko.daniil@gmail.com
+
+:link: [Telegram](https://t.me/sochimoscow)
+
+
 ## Описание проектов:
 
 | № | Название | Описание |
