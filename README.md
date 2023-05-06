@@ -1,5 +1,5 @@
 ## Мои контакты:
-:bust_in_silhouette: Кунченко Даниил Сергеевич
+:bust_in_silhouette: Кунченко Даниил
 
 :telephone_receiver: +7(915)124-47-13
 
